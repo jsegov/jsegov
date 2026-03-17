@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Jonathan Segovia (@jsegov)
-
 **Software Engineer @ FAANG | AI & Agentic Systems Builder**
 
 I'm a Software Engineer with a background in building distributed cloud services at scale. Here is where you can find the current side quests I'm embarking on, which are currently focused on the intersection of LLMs, agentic workflows, and developer tooling. 
